@@ -26,6 +26,7 @@ pip install -r requirements.txt
 
 
 ### 2.  📁 Repository Structure
+```
 ├── requirements.txt         # Python package dependencies
 ├── notebook/                # Contains all main notebooks
 │   ├── Q1.ipynb
@@ -35,3 +36,4 @@ pip install -r requirements.txt
 │   └── Q5.ipynb
 ├── figures/                 # Contains generated plots/images
 └── README.md                # Project documentation
+```
