@@ -24,8 +24,7 @@ source conv_env/bin/activate
 pip install -r requirements.txt
 ```
 
-
-### 2.  📁 Repository Structure
+### 3.  📁 Repository Structure
 ```
 ├── requirements.txt         # Python package dependencies
 ├── notebook/                # Contains all main notebooks
@@ -37,3 +36,8 @@ pip install -r requirements.txt
 ├── figures/                 # Contains generated plots/images
 └── README.md                # Project documentation
 ```
+
+### 4.  Main 
+
+For each question, I have prepared a .ipynb file containing the implementation and its corresponding output figures. Additionally, a final report in .pdf format is included, which provides detailed descriptions, answers, and results for each question.
+
