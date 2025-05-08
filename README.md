@@ -34,6 +34,7 @@ pip install -r requirements.txt
 │   ├── Q4.ipynb
 │   └── Q5.ipynb
 ├── figures/                 # Contains generated plots/images
+├── final_report.pdf         
 └── README.md                # Project documentation
 ```
 
